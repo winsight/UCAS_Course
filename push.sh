@@ -1,4 +1,4 @@
-cd /Users/wangshuai/Desktop/UCAS/UCAS_Course
+cd Desktop/UCAS/UCAS_Course
 now=$(date "+%Y-%m-%d")
 git add .
 git commit -m "$now"
