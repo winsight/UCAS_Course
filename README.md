@@ -8,15 +8,16 @@
 
 ---
 
-- [信号与系统](信号与系统)
+- [信号与系统](https://github.com/winsight/UCAS_Course/tree/master/信号与系统)
 
-- [半导体集成电路](半导体集成电路)
+- [半导体集成电路](https://github.com/winsight/UCAS_Course/tree/master/半导体集成电路)
 
-- [高等模拟集成电路设计](高等模拟集成电路设计)
+- [高等模拟集成电路设计](https://github.com/winsight/UCAS_Course/tree/master/高等模拟集成电路设计)
 
-- [高等数字集成电路设计](高等数字集成电路设计)
+- [高等数字集成电路设计](https://github.com/winsight/UCAS_Course/tree/master/高等数字集成电路设计)
 
   
 
 ---
 
+[Link](https://github.com/winsight/UCAS_Course/tree/master/) 
